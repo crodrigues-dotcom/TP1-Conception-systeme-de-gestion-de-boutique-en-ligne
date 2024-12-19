@@ -35,4 +35,10 @@ Un schéma détaillé des **composants logiques** du système a été élaboré 
 
 ---
 
+## **Collaborateurs**  
+- **RODRIGUES Cyril**  
+- **BOITEL Quentin**  
+- **SOBRERO Ludovic**  
+- **FIORENTINI Bastien**  
+
 
